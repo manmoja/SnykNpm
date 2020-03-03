@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "jquery-js":"1.10.2",
-    "react": "16.8.6",
+    "jquery-js":"1.06.2",
+    "react": "14.0.0",
     "react-dom": "16.8.6",
     "react-helmet": "5.2.1",
     "seek-style-guide": "40.2.0",
